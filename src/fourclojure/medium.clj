@@ -1,0 +1,1 @@
+(ns fourclojure.medium)
